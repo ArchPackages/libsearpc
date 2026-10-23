@@ -1,4 +1,5 @@
-# Maintainer: eolianoe <eolianoe [at] gmail [DoT] com>
+# Maintainer: Miroslav Pavleski <miroslav@pavleski.net>
+# Contributor: eolianoe <eolianoe [at] gmail [DoT] com>
 # Contributor: Aaron Lindsay <aaron@aclindsay.com>
 # Contributor: Edvinas Valatka <edacval@gmail.com>
 # Contributor: Adrian Hühn <adrian.huehn@web.de>

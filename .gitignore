@@ -3,3 +3,7 @@
 *.zip
 /pkg
 /src
+*.pkg.tar
+*.pkg.tar.*
+*.src.tar
+*.src.tar.*
